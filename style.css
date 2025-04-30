@@ -1,0 +1,22 @@
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  button {
+    font-size: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .prendido{
+    background-color: honeydew;
+
+  }
+
+  .apagado{
+    background-color: rgb(23, 24, 23);
+  }
